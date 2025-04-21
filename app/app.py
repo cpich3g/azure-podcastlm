@@ -208,7 +208,7 @@ if final_audio:
 # Footer
 st.divider()
 st.caption(
-    "Created by [Mick Vleeshouwer](https://github.com/imicknl). The source code is available on [GitHub](https://github.com/iMicknl/azure-podcast-generator), contributions are welcome."
+    "Created by [Justin](https://github.com/cpich3g)."
 )
 
 if __name__ == "__main__":
